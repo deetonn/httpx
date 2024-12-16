@@ -1,0 +1,8 @@
+{
+  "port": 8080,
+  "disable_unneeded_io_calls_like_console_logs": false,
+  "use_https": false,
+  "base_url": "localhost",
+  "max_worker_threads": 32767,
+  "max_completion_port_threads": 1000
+}
